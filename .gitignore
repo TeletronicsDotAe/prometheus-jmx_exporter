@@ -5,3 +5,5 @@
 # compilation objects
 target/
 /.project
+.idea
+*.iml
